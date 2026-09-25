@@ -1,0 +1,18 @@
+MailQ
+Copyright (c) 2026 PRB Interactive Inc., a Delaware corporation. All rights reserved.
+
+This software, including its source code, compiled or compressed forms, design, name,
+logo, and documentation, is proprietary to PRB Interactive Inc.
+
+No license is granted. You may not copy, modify, merge, publish, distribute, sublicense,
+sell, reverse engineer, or create derivative works from any part of this software without
+prior written permission from PRB Interactive Inc.
+
+Permission to use MailQ is granted only to people PRB Interactive Inc. has invited to use
+it, for their own personal use, and may be withdrawn at any time.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO
+EVENT SHALL PRB INTERACTIVE INC. BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY
+ARISING FROM THE USE OF THE SOFTWARE.
+
+Contact: PRB Interactive Inc.
