@@ -1,4 +1,4 @@
-MailQ
+KAM-Q
 Copyright (c) 2026 PRB Interactive Inc., a Delaware corporation. All rights reserved.
 
 This software, including its source code, compiled or compressed forms, design, name,
@@ -8,7 +8,7 @@ No license is granted. You may not copy, modify, merge, publish, distribute, sub
 sell, reverse engineer, or create derivative works from any part of this software without
 prior written permission from PRB Interactive Inc.
 
-Permission to use MailQ is granted only to people PRB Interactive Inc. has invited to use
+Permission to use KAM-Q is granted only to people PRB Interactive Inc. has invited to use
 it, for their own personal use, and may be withdrawn at any time.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO
